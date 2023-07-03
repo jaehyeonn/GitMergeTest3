@@ -1,0 +1,2 @@
+# GitMergeTest3
+GitMergeTest
